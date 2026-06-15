@@ -5,3 +5,7 @@ source "https://rubygems.org"
 # gem "rails"
 
 gem "rspec", "~> 3.13"
+
+gem "rubocop", "~> 1.87"
+
+gem "colorize", "~> 1.1"
